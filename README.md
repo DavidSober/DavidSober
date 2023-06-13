@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **davidsoberanis2023@gmail.com**
 
-- 📄 Here are some of my experiences [https://www.youtube.com/@davidsoberanis3170/videos](https://www.youtube.com/@davidsoberanis3170/videos)
+- 📄 Here are some of my past projects [https://www.youtube.com/@davidsoberanis3170/videos](https://www.youtube.com/@davidsoberanis3170/videos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
