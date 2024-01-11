@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsober&label=Profile%20views&color=0e75b6&style=flat" alt="davidsober" /> </p>
 
-- 🔭 I’m currently working on [Smart Door Lock with face recognition](https://github.com/DavidSober/Smart-Door-Lock.git)
+<!-- - 🔭 I’m currently working on [Smart Door Lock with face recognition](https://github.com/DavidSober/Smart-Door-Lock.git) -->
 
-- 👨‍💻 All of my projects are available at [https://portfolium.com/DAVIDSOBERANIS2](https://portfolium.com/DAVIDSOBERANIS2)
+- 👨‍💻 Past and current projects at [https://portfolium.com/DAVIDSOBERANIS2](https://portfolium.com/DAVIDSOBERANIS2)
 
-- 📫 How to reach me **davidsoberanis2023@gmail.com**
+- 📫 email **davidsoberanis2023@gmail.com**
 
-- 📄 Here are some of my past projects [https://www.youtube.com/@davidsoberanis3170/videos](https://www.youtube.com/@davidsoberanis3170/videos)
+- 📄 Videos of past projects [https://www.youtube.com/@davidsoberanis3170/videos](https://www.youtube.com/@davidsoberanis3170/videos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
