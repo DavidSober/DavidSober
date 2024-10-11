@@ -5,11 +5,13 @@
 
 <!-- - 🔭 I’m currently working on [Smart Door Lock with face recognition](https://github.com/DavidSober/Smart-Door-Lock.git) -->
 
-- portfolio [https://portfolium.com/DAVIDSOBERANIS2](https://portfolium.com/DAVIDSOBERANIS2)
+- personal website and portfolio [https://davidsoberanis.com/](https://davidsoberanis.com/)
 
 - email **davidsoberanis2023@gmail.com**
 
 - videos of past projects [https://www.youtube.com/@davidsoberanis3170/videos](https://www.youtube.com/@davidsoberanis3170/videos)
+
+- old portfolio [https://portfolium.com/DAVIDSOBERANIS2](https://portfolium.com/DAVIDSOBERANIS2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
